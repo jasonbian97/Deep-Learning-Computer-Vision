@@ -1,4 +1,9 @@
-[TOC]
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 # 1. PyTorch  & KNN
 
