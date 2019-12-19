@@ -30,7 +30,7 @@ Notebooks:
 
 [**two_layer_net.ipynb**](./two_layer_net.ipynb)
 
-# Backpropagation & BN &Dropout(./kNN.ipynb)
+# Backpropagation & BN &Dropout
 
 The goals of this assignment are as follows:
 
