@@ -26,11 +26,11 @@ The goals of this assignment are as follows:
 
 Notebooks:
 
-**linear_classifier.ipynb**
+[**linear_classifier.ipynb**](./linear_classifier.ipynb)
 
-**two_layer_net.ipynb**
+[**two_layer_net.ipynb**](./two_layer_net.ipynb)
 
-# Backpropagation & BN &Dropout
+# Backpropagation & BN &Dropout(./kNN.ipynb)
 
 The goals of this assignment are as follows:
 
@@ -43,9 +43,9 @@ The goals of this assignment are as follows:
 
 Notebooks:
 
-**fully_connected_networks.ipynb**
+[**fully_connected_networks.ipynb**](./fully_connected_networks.ipynb)
 
-**convolutional_networks.ipynb**
+[**convolutional_networks.ipynb**](./convolutional_networks.ipynb)
 
 #4. PyTorch Modules & RNN & Image Captioning & Attention & Style Transfer
 
@@ -61,13 +61,13 @@ The goals of this assignment are:
 
 Notebooks:
 
-**pytorch_autograd_and_nn.ipynb**
+[**pytorch_autograd_and_nn.ipynb**](./pytorch_autograd_and_nn.ipynb)
 
-**rnn_lstm_attention_captioning.ipynb**
+[**rnn_lstm_attention_captioning.ipynb**](./rnn_lstm_attention_captioning.ipynb)
 
-**network_visualization.ipynb**
+[**network_visualization.ipynb**](./network_visualization.ipynb)
 
-**style_transfer.ipynb**
+[**style_transfer.ipynb**](./style_transfer.ipynb)
 
 
 
@@ -81,9 +81,9 @@ The goals of this assignment are:
 
 Notebooks:
 
-**single_stage_detector_yolo.ipynb**
+[**single_stage_detector_yolo.ipynb**](./single_stage_detector_yolo.ipynb)
 
-**two_stage_detector_faster_rcnn.ipynb** 
+[**two_stage_detector_faster_rcnn.ipynb**](./two_stage_detector_faster_rcnn.ipynb)
 
 
 
@@ -96,11 +96,11 @@ The goals of this assignment are:
 
 Notebooks:
 
-**generative_adversarial_networks.ipynb**
+[**generative_adversarial_networks.ipynb**](./generative_adversarial_networks.ipynb)
 
 
 
- Reference:
+ # Reference:
 
 [EECS 498-007 / 598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) Fall 2019
 
