@@ -11,9 +11,9 @@ The goals of this assignment are as follows:
 
 Notebooks: 
 
-**pytorch101.ipynb**
+[**pytorch101.ipynb**](./pytorch101.ipynb)
 
-**kNN.ipynb**
+[**kNN.ipynb**](./kNN.ipynb)
 
 # 2. SVM & Neural Network
 
