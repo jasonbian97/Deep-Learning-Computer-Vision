@@ -30,7 +30,7 @@ Notebooks:
 
 [**two_layer_net.ipynb**](./two_layer_net.ipynb)
 
-# Backpropagation & BN &Dropout
+# 3. Backpropagation & BN &Dropout
 
 The goals of this assignment are as follows:
 
@@ -47,7 +47,7 @@ Notebooks:
 
 [**convolutional_networks.ipynb**](./convolutional_networks.ipynb)
 
-#4. PyTorch Modules & RNN & Image Captioning & Attention & Style Transfer
+# 4. PyTorch Modules & RNN & Image Captioning & Attention & Style Transfer
 
 The goals of this assignment are:
 
